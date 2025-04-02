@@ -1,0 +1,56 @@
+[
+        {
+                "name": "Ergonomic Ceramic Cheese",
+                "price": "622.75",
+                "category": "Grocery",
+                "description": "Stylish Cheese designed to make you stand out with true looks"
+        },
+        {
+                "name": "Licensed Cotton Keyboard",
+                "price": "175.49",
+                "category": "Books",
+                "description": "Streich, Haag and Bauch's most advanced Shoes technology increases bossy capabilities"
+        },
+        {
+                "name": "Practical Aluminum Cheese",
+                "price": "409.79",
+                "category": "Toys",
+                "description": "The sleek and gleaming Table comes with orange LED lighting for smart functionality"
+        },
+        {
+                "name": "Practical Concrete Shirt",
+                "price": "530.19",
+                "category": "Baby",
+                "description": "Discover the rabbit-like agility of our Ball, perfect for pretty users"
+        },
+        {
+                "name": "Sleek Metal Bacon",
+                "price": "54.89",
+                "category": "Movies",
+                "description": "Featuring Arsenic-enhanced technology, our Bacon offers unparalleled gentle performance"
+        },
+        {
+                "name": "Ergonomic Ceramic Hat",
+                "price": "154.15",
+                "category": "Computers",
+                "description": "Featuring Yttrium-enhanced technology, our Shoes offers unparalleled harmful performance"
+        },
+        {
+                "name": "Modern Silk Chips",
+                "price": "575.39",
+                "category": "Outdoors",
+                "description": "Savor the creamy essence in our Hat, designed for torn culinary adventures"
+        },
+        {
+                "name": "Gorgeous Silk Keyboard",
+                "price": "650.14",
+                "category": "Tools",
+                "description": "Discover the worthless new Mouse with an exciting mix of Metal ingredients"
+        },
+        {
+                "name": "Modern Metal Chicken",
+                "price": "590.99",
+                "category": "Automotive",
+                "description": "New Car model with 90 GB RAM, 100 GB storage, and celebrated features"
+        }
+]
